@@ -1,0 +1,44 @@
+Solutions are posted here https://github.com/project-euler-london/project-euler-solutions
+
+For the next meetup we will pick:
+
+a) problem 44
+b) a problem in range 100-199
+c) a problem in range 200-299
+d) problem 514
+
+for a,b,c we will bring solutions and references to useful links.
+
+problem 514 will bring it on in case someone feel unchallenged.
+
+if you have any recommendations for b and c get in touch.
+
+18:
+
+we will solve 67 in the future which cannot be brute-forced
+
+107:
+
+This is a small graph, but related to graphs here's a few useful links.
+https://en.wikipedia.org/wiki/Kruskal%27s_algorithm
+
+https://en.wikipedia.org/wiki/Prim%27s_algorithm
+
+https://en.wikipedia.org/wiki/Minimum_spanning_tree
+
+146:
+Our current solution is brute-force but it does prune lots of numbers, we couldn't figure out a better solution yesterday. It takes around 70 seconds on my pc but it took 5 minutes on others. I think it can probably get more optimised.
+
+Miller–Rabin primality test (section Deterministic variants): https://en.wikipedia.org/wiki/Miller%E2%80%93Rabin_primality_test
+
+An important performance gain is to test if the primes are consecutive after they meet all the other criteria.
+
+Someone mentioned using a sieve for 146 - that seems to run out of memory in python so not sure, but here's a link for people who are interested.
+
+https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
+
+6k +-1 https://primes.utm.edu/notes/faq/six.html
+
+
+Will try to have an interesting link every month.
+This months link is RSA-129 https://www.youtube.com/watch?v=YQw124CtvO0
