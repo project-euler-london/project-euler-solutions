@@ -105,18 +105,14 @@ def run():
     s = 0
 
     for num in range(10, max_num, 10):
+        if (num % 3 == 0):
+            continue
+        if (num % 7 != 3 and num % 7 != 4):
+            continue
+        if (num % 13 == 0 or num % 13 == 2 or num % 13 == 5 or num % 13 == 8 or num % 11 == 0):
+            continue
+          
         squared = num * num
-        if (squared % 9 == 0 or
-            squared % 13 == 0 or
-            squared % 27 == 0):
-            continue
-
-        if (squared % 3 != 1):
-            continue
-
-        if (squared % 7 != 2 and squared % 7 != 3):
-            continue
-
         for num_to_add in numbers_to_add:
             temp = squared + num_to_add
 
