@@ -4,7 +4,7 @@
 
 [William Stein - Elementary Number Theory: Primes, Congruences, and Secrets](http://wstein.org/ent/ent.pdf)
 
-[Elements of Geometry of Euclid](https://play.google.com/store/books/details?id=ky0TAAAAQAAJ)
+[Elements of Geometry of Euclid](http://microblog.routed.net/wp-content/uploads/2008/01/elements.pdf)
 
 ## books non-free
 [Summing it up](http://www.goodreads.com/book/show/27311901-summing-it-up)
