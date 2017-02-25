@@ -35,6 +35,8 @@
 
 ### Other
 
+[Cut the knot](http://www.cut-the-knot.org/)
+
 [Programming praxis](https://programmingpraxis.com/)
 
 ### (Other + 1) ^ e
