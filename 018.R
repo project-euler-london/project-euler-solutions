@@ -1,8 +1,4 @@
 # 18 | Maximum path sum I
-<<<<<<< HEAD
-=======
-# 
->>>>>>> aa005b7... Added support to linebreaks if files are executed via command line.
 # https://projecteuler.net/problem=18
 # 
 # By starting at the top of the triangle below and moving to adjacent 
