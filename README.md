@@ -6,6 +6,10 @@
 
 [Elements of Geometry of Euclid](http://microblog.routed.net/wp-content/uploads/2008/01/elements.pdf)
 
+
+[MIT 6.042 Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
+
+
 ## books non-free
 [Summing it up](http://www.goodreads.com/book/show/27311901-summing-it-up)
 
