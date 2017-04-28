@@ -43,6 +43,11 @@
 
 [Programming praxis](https://programmingpraxis.com/)
 
+[Generating function](https://en.wikipedia.org/wiki/Generating_function)
+
+[The On-Line Encyclopedia of Integer Sequences](http://oeis.org/)
+
+
 ### (Other + 1) ^ e
 
 [A Tribute to Euler - William Dunham](https://www.youtube.com/watch?v=fEWj93XjON0)
